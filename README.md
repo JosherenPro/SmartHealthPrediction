@@ -34,12 +34,12 @@ Urban areas are increasingly exposed to various health challenges due to populat
 
 ## 📁 Project Structure
 
-SmartHealthPrediction/ 
-├── data/ # Raw and cleaned datasets 
-├── notebooks/ # Jupyter notebooks for exploration & modeling 
-├── src/ # Source code and modules 
-├── reports/ # Generated graphs, dashboards, and reports 
-└── README.md # Project documentation
+SmartHealthPrediction/        
+├── data/ # Raw and cleaned datasets        
+├── notebooks/ # Jupyter notebooks for exploration & modeling   
+├── src/ # Source code and modules           
+├── reports/ # Generated graphs, dashboards, and reports          
+└── README.md # Project documentation    
 
 
 ---
