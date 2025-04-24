@@ -1,0 +1,95 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Togo,TGO,2020,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,38.5
+Togo,TGO,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,40.08219
+Togo,TGO,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,43.32551
+Togo,TGO,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,46.56882
+Togo,TGO,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,49.81214
+Togo,TGO,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,53.05546
+Togo,TGO,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,56.29878
+Togo,TGO,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,59.54209
+Togo,TGO,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,62.78541
+Togo,TGO,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,66.02873
+Togo,TGO,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,69.27204
+Togo,TGO,2021,Income share held by second 20%,SI.DST.02ND.20,11
+Togo,TGO,2018,Income share held by second 20%,SI.DST.02ND.20,9.8
+Togo,TGO,2015,Income share held by second 20%,SI.DST.02ND.20,9.5
+Togo,TGO,2011,Income share held by second 20%,SI.DST.02ND.20,8.7
+Togo,TGO,2006,Income share held by second 20%,SI.DST.02ND.20,9.7
+Togo,TGO,2021,Income share held by third 20%,SI.DST.03RD.20,15.4
+Togo,TGO,2018,Income share held by third 20%,SI.DST.03RD.20,14.2
+Togo,TGO,2015,Income share held by third 20%,SI.DST.03RD.20,14.4
+Togo,TGO,2011,Income share held by third 20%,SI.DST.03RD.20,13.4
+Togo,TGO,2006,Income share held by third 20%,SI.DST.03RD.20,13.9
+Togo,TGO,2021,Income share held by fourth 20%,SI.DST.04TH.20,21.6
+Togo,TGO,2018,Income share held by fourth 20%,SI.DST.04TH.20,21.1
+Togo,TGO,2015,Income share held by fourth 20%,SI.DST.04TH.20,22.4
+Togo,TGO,2011,Income share held by fourth 20%,SI.DST.04TH.20,21.4
+Togo,TGO,2006,Income share held by fourth 20%,SI.DST.04TH.20,21.2
+Togo,TGO,2021,Income share held by highest 20%,SI.DST.05TH.20,45.2
+Togo,TGO,2018,Income share held by highest 20%,SI.DST.05TH.20,49.1
+Togo,TGO,2015,Income share held by highest 20%,SI.DST.05TH.20,48.6
+Togo,TGO,2011,Income share held by highest 20%,SI.DST.05TH.20,51.6
+Togo,TGO,2006,Income share held by highest 20%,SI.DST.05TH.20,49.1
+Togo,TGO,2021,Income share held by highest 10%,SI.DST.10TH.10,29.6
+Togo,TGO,2018,Income share held by highest 10%,SI.DST.10TH.10,33
+Togo,TGO,2015,Income share held by highest 10%,SI.DST.10TH.10,31.5
+Togo,TGO,2011,Income share held by highest 10%,SI.DST.10TH.10,34.5
+Togo,TGO,2006,Income share held by highest 10%,SI.DST.10TH.10,32.6
+Togo,TGO,2021,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,13.1
+Togo,TGO,2018,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,15.8
+Togo,TGO,2015,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,18.2
+Togo,TGO,2011,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,19.7
+Togo,TGO,2006,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,13.3
+Togo,TGO,2021,Income share held by lowest 10%,SI.DST.FRST.10,2.8
+Togo,TGO,2018,Income share held by lowest 10%,SI.DST.FRST.10,2.3
+Togo,TGO,2015,Income share held by lowest 10%,SI.DST.FRST.10,1.9
+Togo,TGO,2011,Income share held by lowest 10%,SI.DST.FRST.10,1.9
+Togo,TGO,2006,Income share held by lowest 10%,SI.DST.FRST.10,2.5
+Togo,TGO,2021,Income share held by lowest 20%,SI.DST.FRST.20,6.8
+Togo,TGO,2018,Income share held by lowest 20%,SI.DST.FRST.20,5.8
+Togo,TGO,2015,Income share held by lowest 20%,SI.DST.FRST.20,5.1
+Togo,TGO,2011,Income share held by lowest 20%,SI.DST.FRST.20,4.8
+Togo,TGO,2006,Income share held by lowest 20%,SI.DST.FRST.20,6.1
+Togo,TGO,2021,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,26.6
+Togo,TGO,2018,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,28.4
+Togo,TGO,2015,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,54.7
+Togo,TGO,2011,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,58.9
+Togo,TGO,2006,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,61
+Togo,TGO,2021,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,7.1
+Togo,TGO,2018,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,8.5
+Togo,TGO,2015,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,23.5
+Togo,TGO,2011,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,26.7
+Togo,TGO,2006,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,24.9
+Togo,TGO,2021,Gini index,SI.POV.GINI,37.9
+Togo,TGO,2018,Gini index,SI.POV.GINI,42.5
+Togo,TGO,2015,Gini index,SI.POV.GINI,43
+Togo,TGO,2011,Gini index,SI.POV.GINI,46
+Togo,TGO,2006,Gini index,SI.POV.GINI,42.2
+Togo,TGO,2021,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,58.8
+Togo,TGO,2018,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,56.9
+Togo,TGO,2015,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,77.4
+Togo,TGO,2011,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,79.1
+Togo,TGO,2006,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,81.4
+Togo,TGO,2021,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,22
+Togo,TGO,2018,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,23
+Togo,TGO,2015,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,41.7
+Togo,TGO,2011,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,44.7
+Togo,TGO,2006,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,44.6
+Togo,TGO,2018,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,45.5
+Togo,TGO,2021,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,86.8
+Togo,TGO,2018,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,84
+Togo,TGO,2015,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,94.2
+Togo,TGO,2011,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,93.5
+Togo,TGO,2006,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,94.7
+Togo,TGO,2021,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,47.3
+Togo,TGO,2018,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,46.4
+Togo,TGO,2015,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,63.2
+Togo,TGO,2011,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,64.9
+Togo,TGO,2006,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,65.7
+Togo,TGO,2021,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,1.86
+Togo,TGO,2018,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,1.77
+Togo,TGO,2021,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,1.52
+Togo,TGO,2021,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,4.18
+Togo,TGO,2018,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,4.55
+Togo,TGO,2021,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,-2.59
